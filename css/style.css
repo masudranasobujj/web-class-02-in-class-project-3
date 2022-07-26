@@ -1,0 +1,26 @@
+
+body{
+	margin: 0px;
+}
+div{	
+	color: white;
+	width: 1200px;
+	padding: 30px;
+	margin-left:auto;
+	margin-right: auto;
+	text-align: center;
+}
+.box1{
+	background-color: #2830bd;
+}
+.box2{
+	background-color: #bd287e;
+}
+h1{
+	font-size: 50px;
+	margin: 0;
+}
+p{
+	font-size: 20px;
+	margin: 0;
+}
